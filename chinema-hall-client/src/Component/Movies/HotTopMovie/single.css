@@ -1,0 +1,25 @@
+.single-blog {
+    width: 100%;
+    height: 360px;
+    background-color: #172a45;
+    padding: 3%;
+    border-radius: 5px;
+  }
+  
+  .blog-img-container {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 20px;
+  }
+  
+  .blog-img {
+    transition: transform 0.7s ease-in-out;
+  }
+  .blog-img:hover {
+    transform: scale(1.5);
+  }
+  
+  .single-blog h5 {
+    color: rgb(191, 194, 214);
+  }
+  

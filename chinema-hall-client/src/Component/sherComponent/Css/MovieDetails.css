@@ -1,0 +1,10 @@
+    .movie-img{
+        width: 250px;
+        border: 2px solid red;
+    }
+    .movie-img img{
+        width: 100%;
+    }
+    .desc-box{
+        border-top: 2px solid #f3bcbc;
+    }

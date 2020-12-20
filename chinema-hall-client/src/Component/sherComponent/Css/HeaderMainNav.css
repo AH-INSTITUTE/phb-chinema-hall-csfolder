@@ -1,0 +1,17 @@
+#header-logo img{
+    width: 100px;
+}
+.nav-menu .nav-item{
+    display: block;
+    color: #000;
+    padding: 8px 20px;
+}
+.login-btn{
+    background-color: #1c1652;
+    padding: 7px 25px;
+    color: #fff;
+    border-radius: 8px;
+}
+.login-btn:hover{
+    color: #fff;
+}

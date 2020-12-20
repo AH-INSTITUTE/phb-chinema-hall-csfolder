@@ -1,0 +1,9 @@
+.sit_icon{
+    font-size: 75px!important;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.cursor-eraser{
+    cursor: no-drop;
+}

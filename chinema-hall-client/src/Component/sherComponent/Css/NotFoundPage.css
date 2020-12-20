@@ -1,0 +1,22 @@
+.Notfound{
+    font-family:Bradley Hand, cursive;
+   }
+   .notFoundImg{
+       padding:0 70px
+   }
+   .notFoundImg img{
+      width:100%;
+   }
+   .home-btn{
+       background: #149b9b;
+       color: #fff;
+       padding: 6px 25px;
+       border-radius: 5px;
+       text-shadow: 0 0 5px #ff0000;
+       transition: all 0.5s;
+   }
+   .home-btn:hover{
+       background: #0c2341;
+       color: #fff;
+       text-shadow: 0 0 5px #ff0000;
+   }
